@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
-    "port": 29195,
+    "ip": "Dr_Sugar1.aternos.me:11100",
+    "port": 11100,
     "version": "1.21.1"
   },
   "position": {
